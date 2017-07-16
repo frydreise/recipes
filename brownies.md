@@ -1,5 +1,4 @@
 # Gurto Brownies
-----
 
 ## Ingredients
 - 1 cup butter
