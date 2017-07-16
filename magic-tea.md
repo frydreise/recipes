@@ -1,4 +1,5 @@
 # Magic Tea
+Brought to you by Samantha Guinn
 
 ## Ingredients:
 - Lemon
